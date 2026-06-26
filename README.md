@@ -1,6 +1,6 @@
 # AI Career LinkedIn Growth Skill
 
-Reusable Codex skill for improving CVs, LinkedIn profiles, LinkedIn posts, cover letters, recruiter messages, and job-search strategy for AI Developer / Agentic AI Developer roles.
+Reusable model skill for improving CVs, LinkedIn profiles, LinkedIn posts, cover letters, recruiter messages, and job-search strategy for AI Developer / Agentic AI Developer roles.
 
 ## Install
 
