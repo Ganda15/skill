@@ -26,6 +26,8 @@ Avoid:
 - over-polished AI writing;
 - empty lists of tools.
 
+The user does not need to publish every day to be visible. A light rhythm of targeted activity is enough when the profile is complete and the network is relevant.
+
 ## Post Structure
 
 Use:
@@ -133,11 +135,19 @@ Example:
 
 `Interesting point about evaluating LLM agents before deployment. In my current training, I am seeing that test cases and monitoring are as important as the prompt itself. Do you usually evaluate with human review, automated metrics, or both?`
 
+High-value comments should be 3 to 5 lines when possible:
+
+1. react to one precise idea from the post;
+2. connect it to the user's learning, project, or target role;
+3. add a concrete question or useful nuance.
+
+Use comments on posts from target companies, recruiters, technical leaders, and sector voices as a low-risk way to become visible.
+
 ## Suggested Cadence
 
 Beginner:
 
-- 2 posts per week;
+- 1 to 2 posts per week;
 - 5 thoughtful comments per week;
 - 5 targeted connection requests per week.
 
@@ -156,3 +166,14 @@ Week 2: Show one technical project.
 Week 3: Explain one concept simply.
 
 Week 4: Share one failure, fix, or before/after improvement.
+
+## Watch Routine
+
+Follow a small set of useful sources:
+
+- target companies and their HR or CTO profiles;
+- recruiters active in the target market;
+- technical voices on AI, data, Python, LLMs, RAG, MLOps, and agentic AI;
+- public organizations or communities relevant to data protection, AI, and employment.
+
+Use this watch routine to find vocabulary, job requirements, project ideas, and posts worth commenting on.

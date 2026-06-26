@@ -105,6 +105,16 @@ Template:
 
 `Bonjour [Name], je vous contacte car je recherche [stage/alternance/poste] en developpement IA / Agentic AI. Je travaille sur Python, API LLM, RAG, evaluation d'agents et MLOps minimal. J'ai vu que [company] travaille sur [topic]. Seriez-vous ouvert(e) a un court echange ou a recevoir mon CV ?`
 
+## LinkedIn Connection Note
+
+When the goal is only to connect, stay under 300 characters and make the note contextual.
+
+Template:
+
+`Bonjour [Name], je m'interesse a [company/topic] dans le cadre de ma recherche en [target role]. Votre parcours/contenu est tres utile pour ma veille. Je serais ravi(e) de vous suivre ici.`
+
+Do not send the same generic note to many people from one company. Choose one or two relevant contacts first.
+
 ## Follow-Up Message
 
 Template:
@@ -130,3 +140,10 @@ Track:
 - contact person;
 - status;
 - next action.
+
+Add LinkedIn watch actions:
+
+- follow target companies and groups;
+- follow recruiters, HR profiles, CTOs, and technical voices;
+- collect recurring keywords from 3 to 5 profiles similar to the target role;
+- identify one person per target company before sending a connection note.

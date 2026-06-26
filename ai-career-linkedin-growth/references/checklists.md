@@ -2,6 +2,7 @@
 
 ## LinkedIn Profile Checklist
 
+- Public search results for the user's name do not weaken the professional image.
 - Headline contains target role and technical keywords.
 - About section explains the user's project and proof.
 - First 3 lines of About are strong enough before "see more".
@@ -12,6 +13,9 @@
 - Featured section contains projects, GitHub, CV, or posts.
 - Recommendations are requested from relevant contacts.
 - Profile is coherent with the CV.
+- Photo is professional and the OpenToWork frame is used when useful.
+- Banner is present when possible and uses `1584 x 396 px`.
+- Target companies, groups, recruiters, HR, CTOs, and technical voices are followed for watch.
 
 ## CV Checklist
 
@@ -45,6 +49,14 @@
 - No engagement bait.
 - Soft call to action is optional and natural.
 
+## Networking Checklist
+
+- Connection notes are under 300 characters.
+- Notes mention a real context: company, event, post, project, or shared topic.
+- The user avoids mass-inviting many people from the same company.
+- Comments add value in 3 to 5 lines instead of only saying thanks.
+- Similar profiles have been benchmarked for keywords, certifications, and credible wording.
+
 ## Anti-Patterns
 
 Avoid:
@@ -57,3 +69,4 @@ Avoid:
 - Asking recruiters for a job without context.
 - Hiding availability or target contract.
 - Making old experience dominate the new AI positioning.
+- Sending generic connection requests without context.

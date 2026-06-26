@@ -84,6 +84,8 @@ Use this file for LinkedIn profile work.
 
 It covers:
 
+- online image cleanup;
+- visibility and search behavior;
 - headline;
 - About section;
 - experience;
@@ -91,6 +93,8 @@ It covers:
 - skills;
 - recommendations;
 - featured section;
+- connection notes;
+- profile benchmarking;
 - visual profile advice.
 
 ### `cv-application-playbook.md`
@@ -119,6 +123,7 @@ It covers:
 - technical lessons;
 - job search posts;
 - comment strategy;
+- watch routine;
 - posting cadence.
 
 ### `ai-keyword-bank.md`
@@ -173,8 +178,9 @@ Recommended assistant workflow:
 4. Open `references/ai-keyword-bank.md`.
 5. Ask for missing user information if needed.
 6. Generate headline options, About section, skills, and Featured recommendations.
-7. Use `references/checklists.md` to verify the result.
-8. Return text that the user can paste directly into LinkedIn.
+7. Add networking notes, target-profile benchmarking, or watch actions when useful.
+8. Use `references/checklists.md` to verify the result.
+9. Return text that the user can paste directly into LinkedIn.
 
 ## 5. Main Use Cases
 

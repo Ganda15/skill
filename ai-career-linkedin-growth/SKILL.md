@@ -18,7 +18,7 @@ Core principle:
 1. Identify the target: internship, apprenticeship, junior job, freelance, or portfolio visibility.
 2. Extract the user's proof: projects, stack, training, certifications, experience, constraints, language, location, availability.
 3. Build positioning: one clear professional title, one target role family, one proof-based narrative.
-4. Optimize LinkedIn: headline, About, Experience, Education, Skills, Featured, Recommendations.
+4. Optimize LinkedIn: online image, headline, About, Experience, Education, Skills, Featured, Recommendations, network, watch routine.
 5. Optimize CV: ATS-safe structure, keywords, quantified bullets, technical stack, projects.
 6. Create application assets: cover letter, recruiter message, follow-up, networking note.
 7. Create content strategy: LinkedIn posts that show learning, projects, technical judgment, and human voice.
@@ -57,6 +57,7 @@ Produce practical outputs the user can paste or publish:
 - experience bullets using context + action + tools + result;
 - skills list organized by category;
 - Featured section recommendations;
+- networking notes under 300 characters when connecting on LinkedIn;
 - cover letter under 400 words unless requested otherwise;
 - recruiter/networking messages under 900 characters;
 - LinkedIn posts with clear hook, proof, lesson, and soft call to action;

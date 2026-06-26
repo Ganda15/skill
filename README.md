@@ -12,6 +12,7 @@ npx skills add https://github.com/ganda15/skill --skill ai-career-linkedin-growt
 
 - CV optimization
 - LinkedIn headline and About section
+- LinkedIn visibility, networking, and watch routine
 - AI / Agentic AI keyword strategy
 - LinkedIn post strategy
 - Cover letters
