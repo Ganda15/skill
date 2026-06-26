@@ -6,6 +6,8 @@ Use LinkedIn content to show proof of learning, technical judgment, and employab
 
 The goal is not to become an influencer. The goal is to become findable, credible, and memorable.
 
+If a CV scan identified missing proof, use content to document the proof-building process: what the user built, tested, evaluated, and learned.
+
 ## Content Principles
 
 Good posts should:
@@ -166,6 +168,15 @@ Week 2: Show one technical project.
 Week 3: Explain one concept simply.
 
 Week 4: Share one failure, fix, or before/after improvement.
+
+## Content From CV Gaps
+
+Turn CV gaps into honest posts:
+
+- Missing RAG proof: publish a short build log about document ingestion, chunking, embeddings, retrieval, and grounded answers.
+- Missing agent evaluation proof: publish a before/after comparison of agent outputs on a small test set.
+- Missing deployment proof: publish what changed when moving a local prototype into a simple deployed demo.
+- Missing business context: explain the use case, user problem, and value of the AI workflow.
 
 ## Watch Routine
 

@@ -27,6 +27,8 @@ Before rewriting the profile, search the user's name online when relevant and fl
 
 Recruiters often use LinkedIn to verify background, understand a profile quickly, and search for specific skills. The profile should therefore be complete, coherent, keyword-rich, and consistent with the CV.
 
+If the user has already run a CV scan, reuse the verified proof and target title from that scan. Do not add LinkedIn keywords that the CV analysis marked as risky or unverified.
+
 ## Visibility Rules
 
 Improve visibility without forcing daily posting:
@@ -182,6 +184,8 @@ Each featured item should have a short caption:
 `Projet RAG: chatbot documentaire avec Python, embeddings, base vectorielle et evaluation des reponses.`
 
 Use the Featured section to make proof visible before a recruiter has to search for it. Good items are a CV, GitHub project, portfolio page, formation flyer, certificate, project demo, or strong LinkedIn post.
+
+When aligning with a rewritten CV, make the first Featured items match the strongest CV proof: best AI project, GitHub repository, CV PDF, and one technical post explaining the project.
 
 ## Recommendations
 

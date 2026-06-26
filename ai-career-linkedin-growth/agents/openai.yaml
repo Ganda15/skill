@@ -1,4 +1,4 @@
 interface:
   display_name: "AI Career LinkedIn Growth"
-  short_description: "CV, LinkedIn, posts, and AI job search"
-  default_prompt: "Use $ai-career-linkedin-growth to optimize my AI developer CV, LinkedIn profile, job applications, and posts."
+  short_description: "AI CV scan, LinkedIn, and job matching"
+  default_prompt: "Use $ai-career-linkedin-growth to scan my AI Developer CV, compare it with a job offer, and propose a stronger version."

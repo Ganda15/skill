@@ -20,11 +20,15 @@
 ## CV Checklist
 
 - Single target role is visible at the top.
+- CV analysis identifies verified proof, missing proof, and risky claims separately.
+- If a job offer is included, the CV has been compared against the offer requirements before rewriting.
+- If the user selected a mode, the answer follows that mode: quick scan, full rewrite, job match, skill-gap plan, LinkedIn alignment, application pack, or power ATS pass.
 - CV is ATS-safe: no complex tables, no heavy graphics, no unclear columns.
 - Summary is specific, not generic.
 - Technical stack is grouped.
 - AI projects are explained with tools and purpose.
 - Bullets use action verbs.
+- Agentic AI / AI Developer signals are visible where honest: LLM, RAG, API, tool calling, evals, tests, documentation, deployment, or monitoring.
 - Old experience is translated into transferable value.
 - No unverified claims or inflated expertise.
 - CV and LinkedIn use consistent dates and titles.
@@ -70,3 +74,5 @@ Avoid:
 - Hiding availability or target contract.
 - Making old experience dominate the new AI positioning.
 - Sending generic connection requests without context.
+- Adding job-offer keywords to the CV without proof.
+- Treating a third-party ATS score as more important than honest AI Developer positioning.

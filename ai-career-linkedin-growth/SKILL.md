@@ -1,6 +1,6 @@
 ---
 name: ai-career-linkedin-growth
-description: Optimize CVs, LinkedIn profiles, LinkedIn posts, cover letters, recruiter messages, and job-search workflows for AI Developer, Agentic AI Developer, Data/AI Developer, junior AI consultant, internship, apprenticeship, and first-job searches. Use when the user wants to improve employability, profile positioning, recruiter visibility, personal branding, application materials, or content strategy for AI, Python, LLM, RAG, agentic workflows, OpenAI/Anthropic APIs, MLOps, and related roles.
+description: Analyze and optimize CVs, LinkedIn profiles, LinkedIn posts, cover letters, recruiter messages, and job-search workflows for AI Developer, Agentic AI Developer, Data/AI Developer, junior AI consultant, internship, apprenticeship, and first-job searches. Use when the user wants CV scanning, ATS-style review, CV rewrite, job-offer comparison, skill-gap suggestions, employability improvement, profile positioning, recruiter visibility, personal branding, application materials, or content strategy for AI, Python, LLM, RAG, agentic workflows, OpenAI/Anthropic APIs, MLOps, and related roles.
 ---
 
 # AI Career LinkedIn Growth
@@ -19,17 +19,21 @@ Core principle:
 2. Extract the user's proof: projects, stack, training, certifications, experience, constraints, language, location, availability.
 3. Build positioning: one clear professional title, one target role family, one proof-based narrative.
 4. Optimize LinkedIn: online image, headline, About, Experience, Education, Skills, Featured, Recommendations, network, watch routine.
-5. Optimize CV: ATS-safe structure, keywords, quantified bullets, technical stack, projects.
-6. Create application assets: cover letter, recruiter message, follow-up, networking note.
-7. Create content strategy: LinkedIn posts that show learning, projects, technical judgment, and human voice.
-8. Run the checklist before finalizing.
+5. For CV requests, run a scan first: identify target role, current proof, AI/agentic keywords, ATS risks, missing skills, and weak bullets.
+6. If a job offer is provided, compare the CV against the offer before rewriting.
+7. Optimize CV: ATS-safe structure, keywords, quantified bullets, technical stack, projects.
+8. If the user asks for a "power option", use a dedicated resume/ATS skill or skills search as a second-pass checker.
+9. Create application assets: cover letter, recruiter message, follow-up, networking note.
+10. Create content strategy: LinkedIn posts that show learning, projects, technical judgment, and human voice.
+11. Run the checklist before finalizing.
 
 ## Reference Loading
 
 Load only the reference needed for the task:
 
 - `references/profile-playbook.md`: LinkedIn headline, About, sections, skills, recommendations.
-- `references/cv-application-playbook.md`: CV, cover letter, recruiter message, job application strategy.
+- `references/cv-power-scan.md`: deep CV analysis, ATS-style scan, Agentic AI / AI Developer job-offer comparison, skill-gap suggestions, and rewritten CV proposal.
+- `references/cv-application-playbook.md`: CV wording, cover letter, recruiter message, follow-up, job application strategy.
 - `references/content-playbook.md`: LinkedIn post strategy, hooks, post templates, cadence.
 - `references/ai-keyword-bank.md`: AI developer, Agentic AI, RAG, LLM, Python, MLOps keywords.
 - `references/checklists.md`: final quality checks and anti-patterns.
@@ -43,6 +47,8 @@ Ask for missing information only when needed. Useful inputs:
 - location and availability;
 - current CV or LinkedIn text;
 - job description if tailoring an application;
+- whether the user wants a quick review, full CV rewrite, or job-offer match;
+- whether the user wants LinkedIn alignment, application pack, or power ATS second pass;
 - projects with stack, goal, result, links, screenshots;
 - training, certifications, school, dates;
 - languages and work authorization if relevant;
@@ -53,6 +59,10 @@ Ask for missing information only when needed. Useful inputs:
 Produce practical outputs the user can paste or publish:
 
 - 3 to 7 headline options;
+- CV diagnosis with strengths, risks, missing proof, missing keywords, and next actions when asked for CV analysis;
+- CV-to-job match table when a job offer is provided;
+- rewritten CV proposal for AI Developer / Agentic AI Developer roles when requested;
+- skill-gap plan grouped as learn, prove, and add to CV when verified;
 - polished About section;
 - experience bullets using context + action + tools + result;
 - skills list organized by category;
@@ -123,6 +133,8 @@ Before final answer, check:
 
 - Does the headline say the target role clearly?
 - Does the About section reassure both tech and AI sides?
+- Does the CV analysis separate verified proof from suggested improvements?
+- If a job offer was provided, are the matched keywords and missing requirements explicit?
 - Are projects concrete enough to prove capability?
 - Are technologies grouped logically?
 - Are experience bullets action-oriented?
