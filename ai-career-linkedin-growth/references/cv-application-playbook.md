@@ -4,6 +4,10 @@
 
 The CV should be ATS-readable and recruiter-readable.
 
+For analysis, job-offer matching, or a full rewritten CV proposal, load `cv-power-scan.md` first, then use this file for final wording, application assets, and job-search routine.
+
+When a job offer is provided, do not write the cover letter or recruiter message before extracting the offer's role title, required skills, responsibilities, and company needs.
+
 Priorities:
 
 1. One clear target role.
@@ -26,6 +30,8 @@ Recommended order for a junior AI developer:
 8. Languages.
 
 If the user has limited AI experience, put projects before old jobs.
+
+For Agentic AI / AI Developer roles, prefer project evidence before unrelated experience when the projects contain stronger proof than the work history.
 
 ## Summary Formula
 
@@ -105,6 +111,8 @@ Template:
 
 `Bonjour [Name], je vous contacte car je recherche [stage/alternance/poste] en developpement IA / Agentic AI. Je travaille sur Python, API LLM, RAG, evaluation d'agents et MLOps minimal. J'ai vu que [company] travaille sur [topic]. Seriez-vous ouvert(e) a un court echange ou a recevoir mon CV ?`
 
+If a job offer was included, mention one requirement from the offer and one proof point from the CV. Keep it honest and avoid repeating the whole cover letter.
+
 ## LinkedIn Connection Note
 
 When the goal is only to connect, stay under 300 characters and make the note contextual.
@@ -147,3 +155,14 @@ Add LinkedIn watch actions:
 - follow recruiters, HR profiles, CTOs, and technical voices;
 - collect recurring keywords from 3 to 5 profiles similar to the target role;
 - identify one person per target company before sending a connection note.
+
+Useful job-search channels from the workshop:
+
+- APEC;
+- France Travail;
+- Indeed;
+- HelloWork;
+- LinkedIn;
+- Meteo Job;
+- Jobs That Make Sense;
+- Welcome to the Jungle.

@@ -2,6 +2,8 @@
 
 Use keywords honestly and repeatedly across headline, About, CV, projects, skills, and LinkedIn posts.
 
+Keyword rule: add a keyword to the CV only when it is supported by a project, training, certification, job task, or user-confirmed experience. If the keyword is important but unproven, put it in a learning or project plan instead.
+
 ## Target Titles
 
 French:
@@ -153,3 +155,12 @@ Add both broad and specific terms:
 Featured captions:
 
 Include project type + stack + value.
+
+## Job Offer Keyword Mapping
+
+When a job offer is included:
+
+1. Extract exact repeated keywords from title, requirements, responsibilities, and nice-to-have sections.
+2. Map each keyword to verified CV evidence.
+3. Add matched keywords naturally to summary, skills, projects, and experience.
+4. Keep unmatched keywords in a gap list until the user proves them.

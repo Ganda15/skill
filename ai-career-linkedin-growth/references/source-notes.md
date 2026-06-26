@@ -2,6 +2,11 @@
 
 Use these sources for grounding when updating this skill.
 
+## Source Documents And Reference Families Used
+
+1. `Atelier TRE-2026_Profil en ligne & LinkedIn.pptx.pdf` - June 2026 Wild Code School & Simplon workshop PDF supplied by the user. Use for online image cleanup, LinkedIn visibility, profile sections, networking notes, recruiter behavior, profile exercises, watch routine, OpenToWork, banner size, Featured section, and LinkedIn to-do list.
+2. Skills.sh and public career reference family - use for reusable skill structure, ATS-oriented CV generation, LinkedIn content strategy, copywriting, job-application structure, and optional document generation.
+
 ## Internal Workshop Notes
 
 The user's trainer emphasized:
@@ -22,6 +27,8 @@ The user's trainer emphasized:
 - LinkedIn activity can be minimal but should be targeted: follow, comment, connect, post.
 - Useful exercises include benchmarking 3 to 5 target profiles for repeated keywords, finding one relevant target-company contact, and writing 3 to 5 line value-added comments.
 - Visual guidance includes a professional photo, OpenToWork when active visibility is wanted, a banner at 1584 x 396 px, and Featured items such as CV, training flyer, posts, projects, and certificates.
+- Job-search channels mentioned in the workshop include APEC, France Travail, Indeed, HelloWork, LinkedIn, Meteo Job, Jobs That Make Sense, and Welcome to the Jungle.
+- The workshop to-do list emphasizes OpenToWork, a precise target title, a useful profile summary, target-company watch, relevant groups, and contacting HR or CTO profiles.
 
 ## Skills.sh Skills Used As Inspiration
 
@@ -30,6 +37,8 @@ The user's trainer emphasized:
 - `copywriting`: clear, specific, benefit-driven writing.
 - `job-application`: cover letters and job applications that sound specific.
 - `docx`: professional document generation if a Word CV is needed.
+- Resume/ATS skills can be searched with `npx skills find "resume ats job match"` or `npx skills find "cv analysis"`. Verify current install counts before recommending third-party skills.
+- Third-party ATS and resume skills should be treated as second-pass checkers. The final CV still needs honest AI Developer / Agentic AI positioning based on verified proof.
 
 ## Public Sources
 

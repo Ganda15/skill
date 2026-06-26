@@ -1,0 +1,4 @@
+interface:
+  display_name: "Croissance Carrière IA LinkedIn"
+  short_description: "Scan CV IA, LinkedIn et offres"
+  default_prompt: "Utilise $ai-career-linkedin-growth-fr pour analyser mon CV Développeur IA, le comparer avec une offre et proposer une version plus forte."
